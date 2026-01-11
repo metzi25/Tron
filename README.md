@@ -96,7 +96,8 @@ CREATE TABLE IF NOT EXISTS highscores (
 The program was created in NetBeans. The main panel of the game appears if the run button is clicked in the IDE.
 
 ## Screenshot
-[Gameplay](screenshot/Gameplay.png)
+![Gameplay](screenshot/Gameplay.png)
+
 
 
 
